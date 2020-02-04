@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+
+
+bool false true
+fstream write string
+split
+
+T T
+if
+getline
+debug assertion
+include
+std unique ptr std auto ptr
+
+
+
+
+
+string
+C static compile
+
+
+multi character literal
+for if
+Sentinel
+
+using namespace std
+
+std string
+deprecated conversion from string constant to char
+
+private static member
+C X
+ifndef define
+
+
+const
+
+
+
+
+static lifetime
+
+InterlockedComapreExchange msdn
+new
+
+
+virtual
+h cpp
+
+std map
+Debug Assertion
+cout width n setw n
+Switch Case
+html parser
+typename class
+new
+
+
+
+
+
+
+
+
+exit
+string int
+ID D Buffer
+
+
+
+
+non class type
+
+vector
+
+char
+circular queue
+
+
+std is same
+main Rectangle r Rectangle
+
+request for member in which is of non class type
+MFC
+
+vector
+
+Multiple Modal Dialog hang
+
+new
+int QString
+
+PlaySound
+Operator
+template typedef
+
+
+
+
+
+unordered map
+std vector
+int
+std move
+ifstream
+
+cout double
+
+
+double float NaN
+const
+xCode MS visual studio xCode
+
+NULL
+
+if
+
+
+
+Deep copy
+
+deque auto
+using using
+class
+
+DLL
+linked list k element
+h hpp
+
+const reference
+ofstream class
+
+
+for
+STL vector
+
+private std cin
+
+gui
+C
+throw myImg nullptr
+MFC
+friend
+true
+
+auto for
+
+
+Berkeley DB Dbt get data
+
+
+
+
+
+
+
+
+class struct
+passing xxx as this argument of xxx discards qualifiers
+
+
+cc cpp
+Windows threading beginthread beginthreadex CreateThread
+
+
+doubly linked list
+vector list T
+iterator
+return
+
+switch
+C
+
+stringstream
+std string
+GUI
+
+
+
+static Undefined reference
+
+No newline at end of file
+return
+string int
+f
+
+default
+VRAM
+
+
+switch case
+
+
+
+
+char json
+
+explicit
+
+template
+translation unit
+
+threading
+For
+fstream
+list STL
+vector array
+new int
+
+g
+JNI Java findclass
+java
+linked list
+stoi
+
+
+
+std set
+
+
+string
+static
+
+strcmp
+enum
+malloc new
+winapi
+GUI
+
+boost variant
+
+gdb stdin
+epsilone
+
+string find string num string num
+
+std map key
+Google v javascript Engine
+
+
+
+
+
+virtual
+iostream eof
+
+n n
+
+
+int
+
+fscanf
+
+
+SharedMemory Memory mapped DLL C C
+
+Size
+
+STL tree container
+
+upper bound
+
+PC
+GL
+
+
+
+a b
+static const string
+Your class should have a constructor that initializes the three data members
+
+Google s v
+float
+if
+Call by reference
+string string
+
+try catch catch
+inner
+
+google s v
+
+Person
+GUI
+std map auto
+
+
+
